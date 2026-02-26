@@ -1,4 +1,4 @@
-# ☕ Simple Coffee Listing
+# ☕ Listado de café simple
 
 Aplicación de listado de cafés desarrollada con React y Vite.
 ## 💻 Computador

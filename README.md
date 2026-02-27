@@ -1,5 +1,9 @@
 # ☕ Listado de café simple
 
+## 👩🏻‍💻🧑🏽‍💻 Integrantes
+- Aura Camila Arteaga Castillo
+- Daniel Obeimar Yanguatin Jacanamijoy
+- 
 Aplicación de listado de cafés desarrollada con React y Vite.
 ## 💻 Computador
 
@@ -13,10 +17,6 @@ Aplicación de listado de cafés desarrollada con React y Vite.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79c6d25c-b118-4b48-8002-1de5c039e038" width="35%" />
 </p>
-
-## 👩🏻‍💻🧑🏽‍💻 Integrantes
-- Aura Camila Arteaga Castillo
-- Daniel Obeimar Yanguatin Jacanamijoy
 
 ## 📦 Instalación
 1. Clonar el repositorio y ejecutar:

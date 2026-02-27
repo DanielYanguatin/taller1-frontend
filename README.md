@@ -3,7 +3,7 @@
 ## 👩🏻‍💻🧑🏽‍💻 Integrantes
 - Aura Camila Arteaga Castillo
 - Daniel Obeimar Yanguatin Jacanamijoy
-- 
+  
 Aplicación de listado de cafés desarrollada con React y Vite.
 ## 💻 Computador
 
